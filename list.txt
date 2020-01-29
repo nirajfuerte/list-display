@@ -1,0 +1,519 @@
+ <center><h2><b>VIDEO MARKETING</b></h2></center>
+ 
+           <div class="services-details-overview">
+                    <div class="services-details-image wow fadeInUp">
+                        
+                    </div>
+
+                  
+                    </div>
+                </div>
+            </div>
+        </section>
+             <div class="container">
+                        <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-choose-box">
+                             <img src="assets/Images/indust.gif" alt="fuertedevelopers.com/assets/Images/industryexpert.gif" height="280px" width="570px">
+
+                            <div class="title">
+                                <h3>1 VIDEO</h3>
+                            </div>
+
+                            <div class="content">
+                                <div class="inner-content">
+                                    <h3><a href="industry_fuertedevelopers.php">1 VIDEO</a></h3>
+                                    <p>Normal Company Presentation Video
+</p>
+                               <!--     <a href="industry_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-choose-box">
+                            <img src="assets/Images/expert.gif" alt="fuertedevelopers.com/assets/Images/expert.gif" height="280px" width="570px">
+
+                            <div class="title">
+                                <h3>2 VIDEO
+</h3>
+                            </div>
+
+                            <div class="content">
+                                <div class="inner-content">
+                                    <h3><a href="leadership_fuertedevelopers.php">2 VIDEO</a></h3>
+                                    <p>Normal Company Presentation Video<br>
+                                    Whiteboard Animation Video</p>
+                               <!--     <a href="leadership_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
+                        <div class="single-choose-box">
+                            <img src="assets/Images/dedicated.gif" alt="fuertedevelopers.com/assets/Images/dedicated.gif" height="280px" width="500px">
+
+                            <div class="title">
+                                <h3>3 VIDEO</h3>
+                            </div>
+
+                            <div class="content">
+                                <div class="inner-content">
+                                    <h3><a href="dedicated_fuertedevelopers.php">3 VIDEO</a></h3>
+                                    <p>Normal Company Presentation Video<br>Whiteboard
+Animation
+Video
+<br>
+                                    3D Animation Video</p>
+                                  <!--  <a href="dedicated_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+</div><br>
+ <center><h2><b>DIGITAL MARKETING</b></h2></center><br><br>
+  <div class="container">
+     <div class="row">
+         <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                        <!--     <div class="icon">
+                                <i class="flaticon-code"></i>
+                            </div>-->   
+
+                            <h3>Regular</h3>
+                            <p>WFree Basic SEO<br>
+                            10 Images/ 1 Gif<br>
+                            INR 200 Facebook Ad <br>
+                            1 Blog(5 Keyword)<br>
+                            Banner(SMP)<br>
+                            Google Business Setup<br>
+                            Web Master Setup<br>
+                            Sitemap<br>
+                            Website RND Report<br>
+                            LTS Sponsor Banner</p>
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                        <!--     <div class="icon">
+                                <i class="flaticon-application"></i>
+                            </div>-->   
+
+                             <h3>Silver</h3>
+                            <p>WFree Basic SEO<br>
+                            15 Images/ 1 Gif<br>
+                            INR 250 Facebook Ad <br>
+                            2 Blog(5 Keyword)<br>
+                            Banner(SMP)<br>
+                            Google Business Setup<br>
+                            Web Master Setup<br>
+                            Sitemap<br>
+                            Website RND Report<br>
+                            LTS Sponsor Banner</p>
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                          <!--   <div class="icon">
+                                <i class="flaticon-cyber-security"></i>
+                            </div>-->   
+
+                             <h3>Gold</h3>
+                            <p>WFree Basic SEO<br>
+                            25 Images/ 1 Gif<br>
+                            INR 350 Facebook Ad <br>
+                            4 Blog(5 Keyword)<br>
+                            Banner(SMP)<br>
+                            Google Business Setup<br>
+                            Web Master Setup<br>
+                            Sitemap<br>
+                            Website RND Report<br>
+                            LTS Sponsor Banner</p>
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->     
+                        </div>
+                    </div>
+                </div>
+              </div>
+              
+              <section class="team-area ptb-110">
+            <div class="container">
+                <div class="section-title">
+                    <div class="content">
+                        <span></span>
+                        <h2>LTS ASSURED</h2>
+                                           <div class="about-inner-area">
+					<div class="row">
+						<div class="col-lg-4 col-md-6">  
+							<div class="about-text">
+								<h3>100 INR/month</h3>
+                                
+                                <p>Company Logo With link</p><br>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6">
+							<div class="about-text">
+								<h3>500 INR/month</h3>
+								<p>Company Logo With link
+                                    With 1 Offer</p><br>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+							<div class="about-text">
+								<h3>1000 INR/month</h3>
+								<p>Company Logo
+                                With link
+                                With 2 Offers</p><br>
+                                                                
+                            </div>
+						</div>
+					</div>
+				</div>
+
+                    </div>
+
+                    <div class="image">
+                    <img src="assets/img/section-title/teamwork.gif" alt="fuertedevelopers.com/assets/img/section-title/teamwork.gif">
+                    </div>
+                </div>
+                </div>
+                </section>
+              
+              <!-- <center><h2><b>LTS ASSURED</b></h2></center>
+                          <div class="container">
+                             <div class="row">     
+                             <div class="col-lg-12 col-md-12">
+ 
+                   <div class="about-inner-area">
+					<div class="row">
+						<div class="col-lg-4 col-md-6">  
+							<div class="about-text">
+								<h3>100 INR/month</h3>
+                                
+                                <p>Company Logo With link</p><br>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6">
+							<div class="about-text">
+								<h3>500 INR/month</h3>
+								<p>Company Logo With link
+                                    With 1 Offer</p><br>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+							<div class="about-text">
+								<h3>1000 INR/month</h3>
+								<p>Company Logo
+                                With link
+                                With 2 Offers</p><br>
+                                                                
+                            </div>
+						</div>
+					</div>
+				</div>
+            </div></div>
+     	</div> -->
+     	 <center><h2><b>PRODUCT PHOTOGRAPHY</b></h2></center>
+ 
+           <div class="services-details-overview">
+                    <div class="services-details-image wow fadeInUp">
+                        
+                    </div>
+
+                  
+                    </div>
+                </div>
+            </div>
+        </section>
+             <div class="container">
+                        <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-choose-box">
+                             <img src="assets/Images/indust.gif" alt="fuertedevelopers.com/assets/Images/industryexpert.gif" height="280px" width="570px">
+
+                            <div class="title">
+                                <h3>10 Products /month<</h3>
+                            </div>
+
+                           
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-choose-box">
+                            <img src="assets/Images/expert.gif" alt="fuertedevelopers.com/assets/Images/expert.gif" height="280px" width="570px">
+
+                            <div class="title">
+                                <h3>25 Products /month</h3>
+                            </div>
+
+                
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
+                        <div class="single-choose-box">
+                            <img src="assets/Images/dedicated.gif" alt="fuertedevelopers.com/assets/Images/dedicated.gif" height="280px" width="500px">
+
+                            <div class="title">
+                                <h3>50 Products/month</h3>
+                            </div>
+
+                          
+                        </div>
+                    </div>
+
+                </div>
+</div>
+     
+   <!--  	 <center><h2><b>PRODUCT PHOTOGRAPHY</b></h2></center>
+                          <div class="container">
+                             <div class="row">     
+                             <div class="col-lg-12 col-md-12">
+ 
+                   <div class="about-inner-area">
+					<div class="row">
+						<div class="col-lg-4 col-md-6">  
+							<div class="about-text">
+								<h3>10
+Products /month</h3>
+                                
+                                <p></p>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6">
+							<div class="about-text">
+								<h3>25
+Products /month</h3>
+								<p></p>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+							<div class="about-text">
+								<h3>50
+Products /month</h3>
+								<p></p>
+                                                                
+                            </div>
+						</div>
+					</div>
+				</div>
+            </div></div>
+     	</div>
+     	<br><br><br> -->
+     	
+     	 <center><h2><b>EMAIL MARKETING</b></h2></center><br><br>
+  <div class="container">
+     <div class="row">
+         <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                        <!--     <div class="icon">
+                                <i class="flaticon-code"></i>
+                            </div>-->   
+
+                            <h3>10,000 Email/month</h3>
+                          
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                        <!--     <div class="icon">
+                                <i class="flaticon-application"></i>
+                            </div>-->   
+
+                             <h3>25,000 Email/month</h3>
+                           
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                          <!--   <div class="icon">
+                                <i class="flaticon-cyber-security"></i>
+                            </div>-->   
+
+                             <h3>1 Lac Email/month</h3>
+                            
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->     
+                        </div>
+                    </div>
+                </div>
+              </div>
+              
+    <!-- 	 <center><h2><b>EMAIL MARKETING</b></h2></center>
+                          <div class="container">
+                             <div class="row">     
+                             <div class="col-lg-12 col-md-12">
+ 
+                   <div class="about-inner-area">
+					<div class="row">
+						<div class="col-lg-4 col-md-6">  
+							<div class="about-text">
+								<h3>10,000
+Email/month</h3>
+                                
+                                <p></p>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6">
+							<div class="about-text">
+								<h3>25,000
+Email/month</h3>
+								<p></p>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+							<div class="about-text">
+								<h3>1 Lac
+Email/month</h3>
+								<p></p>
+                                                                
+                            </div>
+						</div>
+					</div>
+				</div>
+            </div></div>
+     	</div> 
+     		<br><br><br> -->
+     		 <center><h2><b>WHATSAPP MARKETING</b></h2></center><br><br>
+  <div class="container">
+     <div class="row">
+         <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                        <!--     <div class="icon">
+                                <i class="flaticon-code"></i>
+                            </div>-->   
+
+                            <h3>1 city- 10,000 view / month</h3>
+                          
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                        <!--     <div class="icon">
+                                <i class="flaticon-application"></i>
+                            </div>-->   
+
+                             <h3>5 city- 25,000 view / month</h3>
+                           
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                          <!--   <div class="icon">
+                                <i class="flaticon-cyber-security"></i>
+                            </div>-->   
+
+                             <h3>10 city -50,000 view /month</h3>
+                            
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->     
+                        </div>
+                    </div>
+                </div>
+              </div>
+     <!--	 <center><h2><b>WHATSAPP MARKETING</b></h2></center>
+                          <div class="container">
+                             <div class="row">     
+                             <div class="col-lg-12 col-md-12">
+ 
+                   <div class="about-inner-area">
+					<div class="row">
+						<div class="col-lg-4 col-md-6">  
+							<div class="about-text">
+								<h3>1 city- 10,000 view / month</h3>
+                                
+                                <p></p>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6">
+							<div class="about-text">
+								<h3>5 city- 25,000 view / month</h3>
+								<p></p>
+                               
+                            </div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+							<div class="about-text">
+								<h3>10 city -50,000 view /month</h3>
+								<p></p>
+                                                                
+                            </div>
+						</div>
+					</div>
+				</div>
+            </div></div>
+     	</div>
+     		<br><br> -->
+     		<center><h2><b>FESTIVAL MARKETING</b></h2></center><br><br>
+  <div class="container">
+     <div class="row">
+         <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                        <!--     <div class="icon">
+                                <i class="flaticon-code"></i>
+                            </div>-->   
+
+                            <h3>2d image</h3>
+                          
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                        <!--     <div class="icon">
+                                <i class="flaticon-application"></i>
+                            </div>-->   
+
+                             <h3>3d image</h3>
+                           
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-services-box">
+                          <!--   <div class="icon">
+                                <i class="flaticon-cyber-security"></i>
+                            </div>-->   
+
+                             <h3>GIF</h3>
+                            
+                          <!--  <a href="WebApp_fuertedevelopers.php" class="read-more-btn">Read More <i class="flaticon-add-1"></i></a> -->     
+                        </div>
+                    </div>
+                </div>
+              </div>
